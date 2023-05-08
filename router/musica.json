@@ -1,0 +1,13 @@
+[
+  {
+    
+    "nombreReal":"Tim Bergling",
+    "nombreArtistico":"Avicii",
+    "nacimiento":"08/09/1989",
+    "fallecimiento":"20/04/2018",
+    "genero":["Dance/Electronica","Pop","Hip-Hop"],
+    "imagenArtista":"https://i.scdn.co/image/ab67616d00001e02ce4fe7b5d10a81503c26262e",
+    "descripcion":"Avicii, fue un DJ, remezclador, compositor y productor musical sueco.A los 16 años comenzó a publicar sus remixes en foros de música electrónica, lo que lo llevó a su primer contrato discográfico .Alcanzó la fama en 2011 con su sencillo «Levels».",
+    "albumes":"/api/v1/avicii/albumes"
+  }
+]
